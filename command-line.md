@@ -34,8 +34,9 @@ used in this file underneath the particular question.
 
 7. Commit and push your changes.
    
-   git commit -am "cmd exercise done" \n
-   git push 
+   git commit -am "cmd exercise done"
+   
+   git push
    
 8. Check the file on github--do you see your edits there?
 
